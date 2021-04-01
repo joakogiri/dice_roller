@@ -1,4 +1,4 @@
-
+document.querySelector("button.btn").addEventListener("click", diceRoll);
 
 function diceRoll() {
 
